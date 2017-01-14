@@ -1,0 +1,37 @@
+{
+  "name": "karibou-core",
+  "version": "0.0.1",
+  "homepage": "https://karibou.ch/",
+  "authors": [
+    "Evalet Olivier <evaleto@karibou.ch>"
+  ],
+  "description": "AngularJS karibou-api wrappers",
+  "main": [
+    "./dist/karibou-core.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "gulpfile.js",
+    "test",
+    "src",
+    "config",
+    "demo",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md"
+  ],
+  "dependencies": {
+    "angular": ">= 1.5.0"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "karibou.ch"
+  ],
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "angular": ">= 1.5.0",
+    "angular-mocks": ">= 1.5.0",
+    "jquery": "^2.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+var karibouCoreMocks = angular.module('karibouCoreMocks', []);
